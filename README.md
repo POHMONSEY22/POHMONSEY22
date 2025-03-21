@@ -63,7 +63,7 @@
 
 ## 👨‍📱 Redes y Contacto
 
-[![Instagram](https://img.shields.io/badge/@pohmonsey22-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/tuusuario](https://www.instagram.com/77._juan/?hl=es))
+[![Instagram](https://img.shields.io/badge/@pohmonsey22-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/77._juan/?hl=es](https://www.instagram.com/77._juan/?hl=es))
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31exen4uhfgkqr3mb55aozou7jsq)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
