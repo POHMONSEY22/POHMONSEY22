@@ -16,7 +16,7 @@
 - 🌱 Actualmente aprendiendo: **Django**, **JavaScript**, **React**
 - 💻 Me gusta diseñar con estilo y programar con flow.
 - 📫 Contacto: pohmonsey22@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: JP/MONSEY
 - ⚡ Fun fact: Dibujo píxeles como si fuera 1985 🎮
 
 ---
