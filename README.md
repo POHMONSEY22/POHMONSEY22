@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hey, soy @POHMONSEY22</h1>
+<p align="center">
+  <img src="https://github.com/POHMONSEY22/POHMONSEY22/blob/main/cyberpunk-banner.gif?raw=true" alt="Cyberpunk Banner" />
+</p>
+
+<h1 align="center">👋 Welcome to @POHMONSEY22's Realm</h1>
 
 <p align="center">
   🎨 Grafitero | 🏀 Ball is life | 🎧 80s vibes | 💻 Creador de código con flow
@@ -6,36 +10,26 @@
 
 ---
 
-### 📌 Sobre mí
+## ⚡ Sobre mí
 
-- 🔭 Actualmente trabajando en **proyectos con estilo** que mezclan arte y código.
-- 🌱 Aprendiendo **JavaScript**, **React**, y explorando **Django** para backend 🔥.
-- 🧠 Me interesa todo lo relacionado con **creatividad digital**, **front-end moderno**, y **experiencias únicas**.
-- 🤝 Busco colaborar en proyectos donde se valore el diseño y la originalidad.
-- 📫 **Contáctame:** juanarboledag610@gmail.com
-- ⚡ **Dato random:** Mi inspiración visual viene de los **2000s**, pero mi música de los **80s** 🎶.
-
----
-
-### 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- 👀 Me interesa crear proyectos con arte, música y código.
+- 🌱 Actualmente aprendiendo: **Django**, **JavaScript**, **React**
+- 💻 Me gusta diseñar con estilo y programar con flow.
+- 📫 Contacto: pohmonsey22@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Dibujo píxeles como si fuera 1985 🎮
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Proyectos en la red
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=POHMONSEY22&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+- 🎧 [Canserbero Tribute](https://canserbero-tyron.netlify.app/)
+- 🧠 [MindGuide AI](https://mindguideia.netlify.app/)
+- 🎭 **Próximamente:** *Proyecto MF DOOM tribute*
 
 ---
 
-### 🎨 Mis vibes en código
+## 🎨 Mis vibes en código
 
 > 💡 **Tip**  
 > Si el código no tiene estilo, ¿realmente vale la pena?
@@ -45,7 +39,19 @@
 
 ---
 
-### 🔗 Links
+## 📊 GitHub Stats
 
-- 🌐 [Mi GitHub](https://github.com/POHMONSEY22)
-- 📸 *Proximamente: Instagram de arte*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=POHMONSEY22&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=POHMONSEY22&theme=radical&hide_border=true&background=FFFFFF00" />
+</p>
+
+---
+
+## 🧠 Quote of the Day
+
+> “Dream in pixels. Build in code.” – @POHMONSEY22
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Follow+the+Flow+;+Code+like+a+Beast+;Stay+Retro+💾" />
+</p>
