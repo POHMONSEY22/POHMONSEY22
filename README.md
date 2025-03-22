@@ -15,8 +15,8 @@
 - 👀 Me interesa crear proyectos con arte, música y código.
 - 🌱 Actualmente aprendiendo: **Django**, **JavaScript**, **React**
 - 💻 Me gusta diseñar con estilo y programar con flow.
-- 📢 Contacto: pohmonsey22@gmail.com
-- 😄 Pronouns: He/Him
+- 📢 Contacto: juanarboledag610@gmail.com
+- 😄 Pronouns: JP/MONSEY
 - ⚡️ Fun fact: Dibujo píxeles como si fuera 1985 🎮
 
 ---
@@ -25,7 +25,7 @@
 
 - 🎿 [Canserbero Tribute](https://canserbero-tyron.netlify.app/)
 - 🧠 [MindGuide AI](https://mindguideia.netlify.app/)
-- 🌟 **Próximamente:** *Proyecto MF DOOM tribute*
+- 🌟 [MF DOOM TRIBUTE](https://mf-doom-theta.vercel.app/)
 
 ---
 
@@ -71,7 +71,7 @@
 
 ## 🎵 Spotify - Now Playing
 
-[![Spotify](https://novatorem-po7z.vercel.app/api/spotify)](https://open.spotify.com/user/31exen4uhfgkqr3mb55aozou7jsq)
+[![Spotify](https://open.spotify.com/user/31exen4uhfgkqr3mb55aozou7jsq))](https://open.spotify.com/user/31exen4uhfgkqr3mb55aozou7jsq)
 
 ---
 
