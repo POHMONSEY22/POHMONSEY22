@@ -44,40 +44,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=POHMONSEY22&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=POHMONSEY22&theme=radical&hide_border=true&background=FFFFFF00" />
-</p>
-
----
-
-## 🌐 Skills & Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=POHMONSEY22&theme=radical" />
 </p>
 
 ---
 
 ## 👨‍📱 Redes y Contacto
 
-[![Instagram](https://img.shields.io/badge/@pohmonsey22-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/77._juan/?hl=es](https://www.instagram.com/77._juan/?hl=es))
+[![Instagram](https://img.shields.io/badge/@pohmonsey22-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/77._juan/?hl=es)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31exen4uhfgkqr3mb55aozou7jsq)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-
----
-
-## 🎵 Spotify - Now Playing
-
-[![Spotify](https://open.spotify.com/user/31exen4uhfgkqr3mb55aozou7jsq))](https://open.spotify.com/user/31exen4uhfgkqr3mb55aozou7jsq)
-
----
-
-## 🔹 Repos Destacados
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=POHMONSEY22&repo=MindGuideAI)](https://github.com/POHMONSEY22/MindGuideAI)
 
 ---
 
