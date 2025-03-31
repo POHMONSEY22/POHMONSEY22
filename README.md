@@ -23,9 +23,10 @@
 
 ## 🚀 Proyectos en la red
 
-- 🎿 [Canserbero Tribute](https://canserbero-tyron.netlify.app/)
+- 🎿 [CANSERBERO TRIBUTE](https://canserbero.vercel.app/)
 - 🧠 [MindGuide AI](https://mindguideia.netlify.app/)
-- 🌟 [MF DOOM TRIBUTE](https://mf-doom-theta.vercel.app/)
+- 🌟 [MF DOOM TRIBUTE](https://mf-doom-717.vercel.app/)
+- 🀄 [2PAC TRIBUTE](https://tupac-amaru.vercel.app/)
 
 ---
 
