@@ -32,10 +32,10 @@
 
 ## 🎨 Mis vibes en código
 
-> 💡 **Tip**  
+>[!TIP] 
 > Si el código no tiene estilo, ¿realmente vale la pena?
 
-> ⚠️ **Warning**  
+>[!CAUTION]
 > Puedo mezclar arte, música y programación en el mismo proyecto.
 
 ---
