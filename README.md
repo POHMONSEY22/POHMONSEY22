@@ -45,7 +45,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=POHMONSEY22&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=POHMONSEY22&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=POHMONSEY22&theme=radical&hide_border=true&background=FFFFFF00" />
 </p>
 
 ---
